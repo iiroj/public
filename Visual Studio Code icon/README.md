@@ -1,4 +1,4 @@
-![Preview of Visual Studio Code icon](Visual tudio Code.iconset/icon_256x256.png?raw=true)
+![Preview of Visual Studio Code icon](Visual Studio Code.iconset/icon_256x256.png?raw=true)
 
 # Visual Studio Code icon
 
