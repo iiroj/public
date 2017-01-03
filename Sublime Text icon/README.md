@@ -1,4 +1,4 @@
-![Preview of Sublime Text icon](Sublime%20Text.iconset/icon_256x256.png?raw=true)
+![Preview of Sublime Text icon](Sublime Text.iconset/icon_256x256.png?raw=true)
 
 # Sublime Text icon
 
