@@ -1,4 +1,4 @@
-![Preview of Vivaldi icon](Vivaldi.iconset/icon_256x256.png?raw=true)
+![Preview of Vivaldi icon](https://raw.githubusercontent.com/iiroj/public/master/Vivaldi%20icon/Vivaldi.iconset/icon_256x256.png)
 
 # Vivaldi icon
 
