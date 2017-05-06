@@ -1,4 +1,4 @@
-![Preview of Sublime Text icon](https://gitlab.com/iiroj/public/raw/0814dbe60844037b9d3cb466c22fb208b2c5363e/Sublime%20Text%20icon/Sublime%20Text.iconset/icon_256x256@2x.png)
+![Preview of Sublime Text icon](https://github.com/iiroj/public/blob/master/Sublime%20Text%20icon/Sublime%20Text.iconset/icon_512x512@2x.png?raw=true)
 
 # Sublime Text icon
 
