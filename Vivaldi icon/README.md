@@ -1,4 +1,4 @@
-![Preview of Vivaldi icon](https://raw.githubusercontent.com/iiroj/public/master/Vivaldi%20icon/Vivaldi.iconset/icon_256x256.png)
+![Preview of Vivaldi icon](https://gitlab.com/iiroj/public/raw/0814dbe60844037b9d3cb466c22fb208b2c5363e/Vivaldi%20icon/Vivaldi.iconset/icon_256x256@2x.png)
 
 # Vivaldi icon
 
