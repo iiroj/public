@@ -1,4 +1,4 @@
-![Preview of Visual Studio Code icon](https://github.com/iiroj/public/blob/master/Visual%20Studio%20Code%20icon/Visual%20Studio%20Code.iconset/icon_512x512@2x.png?raw=true)
+![Preview of Visual Studio Code icon](./Visual%20Studio%20Code.iconset/icon_512x512@2x.png)
 
 # Visual Studio Code icon
 
